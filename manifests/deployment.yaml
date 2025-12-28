@@ -12,7 +12,7 @@ spec:
       labels:
         app: playground
     spec:
-      container:
+      containers:
       - name: playground
         image: will42/playground:v1
         ports:
