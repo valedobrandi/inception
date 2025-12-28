@@ -16,4 +16,4 @@ spec:
       - name: playground
         image: will42/playground:v1
         ports:
-        - containerPort: 80
+          - containerPort: 80
